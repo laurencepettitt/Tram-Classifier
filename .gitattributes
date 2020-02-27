@@ -1,0 +1,6 @@
+tram_classifier/dataset/examples export-ignore  
+tram_classifier/dataset/test_files export-ignore
+tram_classifier/dataset/video_files export-ignore
+.gitattributes export-ignore  
+.gitignore export-ignore
+
